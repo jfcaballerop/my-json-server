@@ -10,152 +10,152 @@
     },
     "roles": [
         {
-            "ID": "GF",
+            "id": "GF",
             "NAME": "Gestor de flota",
             "TESEO_ID": 1
         },
         {
-            "ID": "GC",
+            "id": "GC",
             "NAME": "Gestor de cuenta",
             "TESEO_ID": 2
         },
         {
-            "ID": "PLT",
+            "id": "PLT",
             "NAME": "Plataforma",
             "TESEO_ID": 3
         },
         {
-            "ID": "ADV",
+            "id": "ADV",
             "NAME": "Area de vehiculos",
             "TESEO_ID": 4
         },
         {
-            "ID": "PTF",
+            "id": "PTF",
             "NAME": "Operador Seguridad Portugal",
             "TESEO_ID": 5
         },
         {
-            "ID": "SCA",
+            "id": "SCA",
             "NAME": "OPERADOR ESCANER",
             "TESEO_ID": 6
         },
         {
-            "ID": "ATI",
+            "id": "ATI",
             "NAME": "ADMIN. TRAFICO INTERNAC.",
             "TESEO_ID": 7
         },
         {
-            "ID": "GOD",
+            "id": "GOD",
             "NAME": "SUPER-USUARIO",
             "TESEO_ID": 8
         },
         {
-            "ID": "AV",
+            "id": "AV",
             "NAME": "ADMINISTRADOR VISUALIZACION",
             "TESEO_ID": 9
         },
         {
-            "ID": "AP",
+            "id": "AP",
             "NAME": "ADMINISTRADOR PROVEEDORES",
             "TESEO_ID": 10
         },
         {
-            "ID": "AF",
+            "id": "AF",
             "NAME": "Administrador Facturacion Central",
             "TESEO_ID": 11
         },
         {
-            "ID": "AT",
+            "id": "AT",
             "NAME": "ADMINISTRADOR TRAFICO",
             "TESEO_ID": 12
         },
         {
-            "ID": "AN",
+            "id": "AN",
             "NAME": "ADMINISTRADOR NEGOCIO",
             "TESEO_ID": 13
         },
         {
-            "ID": "CS",
+            "id": "CS",
             "NAME": "CENTRO SEGURIDAD",
             "TESEO_ID": 14
         },
         {
-            "ID": "CV",
+            "id": "CV",
             "NAME": "CENTRO VISUALIZACION",
             "TESEO_ID": 15
         },
         {
-            "ID": "CF",
+            "id": "CF",
             "NAME": "CENTRO FACTURACION",
             "TESEO_ID": 16
         },
         {
-            "ID": "CE",
+            "id": "CE",
             "NAME": "CENTRO EXPEDICIONES",
             "TESEO_ID": 17
         },
         {
-            "ID": "CT",
+            "id": "CT",
             "NAME": "CENTRO TRAFICO",
             "TESEO_ID": 18
         },
         {
-            "ID": "T",
+            "id": "T",
             "NAME": "TRANSPORTISTA",
             "TESEO_ID": 19
         },
         {
-            "ID": "S",
+            "id": "S",
             "NAME": "SIN PERMISOS",
             "TESEO_ID": 20
         },
         {
-            "ID": "PMD",
+            "id": "PMD",
             "NAME": "PHILLIP MORRIS STORE",
             "TESEO_ID": 21
         },
         {
-            "ID": "PMC",
+            "id": "PMC",
             "NAME": "PHILLIP MORRIS CENTRAL",
             "TESEO_ID": 22
         },
         {
-            "ID": "SEC",
+            "id": "SEC",
             "NAME": "Operador Seguridad",
             "TESEO_ID": 23
         },
         {
-            "ID": "FYV",
+            "id": "FYV",
             "NAME": "Gestor flota fruta",
             "TESEO_ID": 24
         },
         {
-            "ID": "TCF",
+            "id": "TCF",
             "NAME": "Transportista Confirmar Fechas",
             "TESEO_ID": 25
         },
         {
-            "ID": "DFF",
+            "id": "DFF",
             "NAME": "Desarrollo de flota formador",
             "TESEO_ID": 26
         },
         {
-            "ID": "VXD",
+            "id": "VXD",
             "NAME": "Viajes por defecto",
             "TESEO_ID": 27
         },
         {
-            "ID": "ICS",
+            "id": "ICS",
             "NAME": "I2 Canarias Seg. Embarcada",
             "TESEO_ID": 28
         },
         {
-            "ID": "SEP",
+            "id": "SEP",
             "NAME": "Operador Seguridad Plus",
             "TESEO_ID": 29
         },
         {
-            "ID": "TLL",
+            "id": "TLL",
             "NAME": "Taller",
             "TESEO_ID": 30
         }
